@@ -149,8 +149,7 @@ upon this work.  If you add something useful or discover something
 interesting about NT TCP/IP let met know.
 
 
-
-## powershell -ep bypass C:\Users\t3st\Desktop\tools\Test-red.ps1
+powershell -ep bypass C:\Users\t3st\Desktop\tools\Test-red.ps1
 
 
 Weld Pond <weld@l0pht.com>, 2/2/98
